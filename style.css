@@ -1,23 +1,20 @@
-body
-{
-  text-align: center;
-  background: linear-gradient( #35e8a8, #ac35e8);
-  background-repeat:no-repeat;
+body {
+    text-align: center;
+    background: linear-gradient(#35e8a8, #ac35e8);
+    background-repeat: no-repeat;
 }
 
-img
-{
-  border-radius:50%
-    width:100px
+img {
+    border-radius: 50% width:100px
 }
 
 
 h1 {
-  text-shadow:2px 2px #4e35e8;
-  font-size:20px;
+    text-shadow: 2px 2px #4e35e8;
+    font-size: 20px;
 }
 
 
-p{
-  font-size:18px;
+p {
+    font-size: 18px;
 }
